@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background: #eee2dc;
+    background-color: #eee2dc;
     font-family: 'Noto Sans JP', sans-serif;
     box-sizing: border-box;
 }
@@ -33,7 +34,7 @@ body {
     height: 80px;
     border-radius: 50%;
     padding: 5px;
-    transform: translate(100px,100px);
+    transform: translate(100px,120px);
 }
 
 .image-container img {
